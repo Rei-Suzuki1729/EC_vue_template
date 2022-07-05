@@ -1,0 +1,1 @@
+EC_template written by Vue
